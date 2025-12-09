@@ -32,9 +32,3 @@
 6. 励志主题文案 ![](./image/self_improvement_video(励志).png)
 7. 一键生成知识卡片  ![](./image/zhishi_card.png)
 
-
-
-[[1. 基于 Coze 搭建沉浸式中国古代历史人物故事 AI 自动生成工作流](https://blog.csdn.net/m0_69402477/article/details/153031706?spm=1001.2014.3001.5501)](https://blog.csdn.net/m0_69402477/article/details/153031706?spm=1001.2014.3001.5501)
-
-[[2. 基于 Coze 构建面向历史人物“一生”叙事的 AI 自动生成工作流](https://blog.csdn.net/m0_69402477/article/details/153181318?spm=1001.2014.3001.5501)](https://blog.csdn.net/m0_69402477/article/details/153181318?spm=1001.2014.3001.5501)
-
